@@ -1,0 +1,10 @@
+{
+  "name": "JeevanGrid - Emergency Care Orchestration",
+  "description": "Closed-loop emergency care orchestration network optimizing Time-to-Confirmed-Care (TCC) with AI triage interpretation, deterministic routing, and dynamic re-coordination.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
